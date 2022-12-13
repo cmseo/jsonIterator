@@ -1,0 +1,412 @@
+{
+  "nodeInfo": {
+    "lge": {
+      "primaryTarget": "ep1",
+      "ep0": {
+        "deviceType": 22
+      },
+      "nodeId": "d756634074f711ed",
+      "ep2": {
+        "deviceType": 256,
+        "name": "ì¡°ëª1"
+      },
+      "fabricId": "166987688533096377",
+      "ep1": {
+        "deviceType": 256,
+        "name": "ì¡°ëª"
+      }
+    },
+    "ep0": {
+      "DescriptorCluster": {
+        "FeatureMap": 0,
+        "GeneratedCommandList": [
+
+        ],
+        "ClusterRevision": 1,
+        "DeviceTypeList": [
+          {
+            "type": 22,
+            "revision": 1
+          }
+        ],
+        "AttributeList": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "ServerList": [
+          3,
+          4,
+          29,
+          30,
+          31,
+          40,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          60,
+          62,
+          63,
+          64,
+          65,
+          1029,
+          4294048774
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "PartsList": [
+          1,
+          2
+        ],
+        "ClientList": [
+          41
+        ]
+      },
+      "BasicCluster": {
+        "UniqueID": "3AAEA86A53142F2F",
+        "ProductName": "TEST_PRODUCT",
+        "PartNumber": "",
+        "ClusterRevision": 1,
+        "AttributeList": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "ProductLabel": "",
+        "HardwareVersionString": "TEST_VERSION",
+        "NodeLabel": "",
+        "GeneratedCommandList": [
+
+        ],
+        "ManufacturingDate": 20200101,
+        "CapabilityMinima": {
+          "subscriptionsPerFabric": 3,
+          "caseSessionsPerFabric": 3
+        },
+        "LocalConfigDisabled": false,
+        "VendorName": "TEST_VENDOR",
+        "VendorID": 65521,
+        "ProductID": 32773,
+        "HardwareVersion": 0,
+        "ProductURL": "",
+        "FeatureMap": 0,
+        "SoftwareVersion": 1,
+        "SerialNumber": "TEST_SN",
+        "Reachable": true,
+        "DataModelRevision": 1,
+        "Location": "XX",
+        "SoftwareVersionString": "v1.0"
+      },
+      "PowerSourceCluster": {
+        "Status": 0,
+        "Order": 3,
+        "FeatureMap": 2,
+        "Description": "B1",
+        "GeneratedCommandList": [
+
+        ],
+        "BatReplaceability": 0,
+        "ClusterRevision": 1,
+        "AttributeList": [
+          0,
+          1,
+          2,
+          14,
+          15,
+          16,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "BatChargeLevel": 0,
+        "BatReplacementNeeded": false
+      }
+    },
+    "ep2": {
+      "DescriptorCluster": {
+        "FeatureMap": 0,
+        "GeneratedCommandList": [
+
+        ],
+        "ClusterRevision": 1,
+        "DeviceTypeList": [
+          {
+            "type": 256,
+            "revision": 1
+          }
+        ],
+        "AttributeList": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "ServerList": [
+          4,
+          6,
+          29,
+          47,
+          1030
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "PartsList": [
+
+        ],
+        "ClientList": [
+
+        ]
+      },
+      "OnOffCluster": {
+        "FeatureMap": 0,
+        "AcceptedCommandList": [
+          0,
+          1,
+          2
+        ],
+        "OnOff": true,
+        "ClusterRevision": 4,
+        "AttributeList": [
+          0,
+          16384,
+          16385,
+          16386,
+          16387,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ]
+      },
+      "PowerSourceCluster": {
+        "Status": 0,
+        "Order": 1,
+        "FeatureMap": 2,
+        "Description": "B3",
+        "GeneratedCommandList": [
+
+        ],
+        "BatReplaceability": 0,
+        "ClusterRevision": 1,
+        "AttributeList": [
+          0,
+          1,
+          2,
+          14,
+          15,
+          16,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "BatChargeLevel": 0,
+        "BatReplacementNeeded": false
+      }
+    },
+    "ep1": {
+      "LevelControlCluster": {
+        "RemainingTime": 0,
+        "CurrentLevel": -3
+      },
+      "DescriptorCluster": {
+        "FeatureMap": 0,
+        "GeneratedCommandList": [
+
+        ],
+        "ClusterRevision": 1,
+        "DeviceTypeList": [
+          {
+            "type": 256,
+            "revision": 1
+          }
+        ],
+        "AttributeList": [
+          0,
+          1,
+          2,
+          3,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "ServerList": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          15,
+          29,
+          30,
+          37,
+          47,
+          59,
+          64,
+          65,
+          69,
+          80,
+          257,
+          258,
+          259,
+          512,
+          513,
+          514,
+          516,
+          768,
+          1024,
+          1026,
+          1027,
+          1028,
+          1029,
+          1030,
+          1283,
+          1284,
+          1285,
+          1286,
+          1287,
+          1288,
+          1289,
+          1290,
+          1291,
+          1292,
+          1293,
+          1294,
+          2820,
+          4294048773
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "PartsList": [
+
+        ],
+        "ClientList": [
+
+        ]
+      },
+      "OnOffCluster": {
+        "FeatureMap": 1,
+        "ClusterRevision": 4,
+        "OffWaitTime": 0,
+        "AttributeList": [
+          0,
+          16384,
+          16385,
+          16386,
+          16387,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "OnTime": 0,
+        "AcceptedCommandList": [
+          0,
+          1,
+          2,
+          64,
+          65,
+          66
+        ],
+        "GlobalSceneControl": true,
+        "OnOff": false
+      },
+      "ScenesCluster": {
+        "SceneValid": false
+      },
+      "PowerSourceCluster": {
+        "Status": 0,
+        "Order": 2,
+        "FeatureMap": 2,
+        "Description": "B2",
+        "GeneratedCommandList": [
+
+        ],
+        "BatReplaceability": 0,
+        "ClusterRevision": 1,
+        "AttributeList": [
+          0,
+          1,
+          2,
+          14,
+          15,
+          16,
+          65528,
+          65529,
+          65531,
+          65532,
+          65533
+        ],
+        "AcceptedCommandList": [
+
+        ],
+        "BatChargeLevel": 0,
+        "BatReplacementNeeded": false
+      }
+    }
+  }
+}

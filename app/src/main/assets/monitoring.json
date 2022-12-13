@@ -1,0 +1,18 @@
+{
+  "nodeInfo": {
+    "ep1": {
+      "OnOffCluster": {
+        "OnOff": true,
+        "ClusterRevision": 3
+      }
+    },
+    "ep0" : {
+      "DescriptorCluster" : {
+        "AttributeList": [
+          -1,
+          -1
+        ]
+      }
+    }
+  }
+}
